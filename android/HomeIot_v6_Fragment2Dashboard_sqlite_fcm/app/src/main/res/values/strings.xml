@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GAS-GUARDIAN</string>
+    <string name="msg_token_fmt" translatable="false">토큰 : %s </string>
+    <string name="default_notification_channel_id">Fcm_ksh</string>
+    <string name="notification_channel_home_title">Home</string>
+    <string name="notification_channel_home_description">Home.</string>
+    <string name="notification_channel_comment_title">Sensor</string>
+    <string name="notification_channel_comment_description">Sensor.</string>
+
+</resources>

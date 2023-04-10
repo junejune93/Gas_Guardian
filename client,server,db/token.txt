@@ -1,0 +1,3 @@
+serviceAccountKey /home/pi/socket_bluetooth/service-account.json
+projectId and-test-8b818
+token dVuPxRORQdC99govs3hxsJ:APA91bFNlUkKI-D2JcprQMIxD0_nHsbk9kVK4Gq_adQ0lZyXha6L3tjBOnoL-iCs25plfWjD9znGsZYJwYU0459NQJiF0n_KRAz_54QE-13tkcphhf7fFTI0bNzGNx-02prInxlra4L5 

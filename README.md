@@ -9,7 +9,7 @@
 
 ---
 
-1. Stm32 혹은 Cortex M4 사용 → CortexM4로 결정
+1. Stm32(Cortex - M4) 혹은 HEB MCU(Cortex-M4) 사용 → HEB MCU(Cortex-M4)로 결정
 2. Raspberry Pi를 이용한 제어 및 DB 관리
 3. 추가 보드 사용 → Arduino 사용
 
